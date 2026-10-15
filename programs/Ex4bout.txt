@@ -1,0 +1,3 @@
+kalyani -> Teacher
+Sharvani -> Driver
+Rajeshwari -> Staff
