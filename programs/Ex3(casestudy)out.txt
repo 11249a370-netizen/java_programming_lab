@@ -1,0 +1,3 @@
+UPI   charge     0.00 total   75000.00
+Card  charge  2250.00 total   77250.00
+Cash  charge    20.00 total   75020.00
