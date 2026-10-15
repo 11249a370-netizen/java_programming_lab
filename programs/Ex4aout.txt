@@ -1,0 +1,3 @@
+Name : Meenakshi
+Salary : 75000.0
+Dept : CSE
