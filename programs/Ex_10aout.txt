@@ -1,0 +1,6 @@
+REM Windows: use a semicolon before the jar name
+javac -cp .;mysql-connector-j-8.3.0.jar FetchData.java
+java -cp .;mysql-connector-j-8.3.0.jar FetchData
+# Linux / macOS: use a colon
+javac -cp .:mysql-connector-j-8.3.0.jar FetchData.java
+java -cp .:mysql-connector-j-8.3.0.jar FetchData
